@@ -1,6 +1,9 @@
 <div align="center">
 
-<h1 align="center">▤ AuroraCP</h1>
+<h1>
+  <img src="assets/logo.png" width="56" alt="AuroraCP logo" valign="middle">
+  AuroraCP
+</h1>
 
 **A modern control panel for Linux web hosting.**
 
