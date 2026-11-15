@@ -46,6 +46,7 @@ AuroraCP is under active development. Contribution guidelines will be published 
 ## License
 
 AuroraCP is proprietary commercial software under development. Licensing terms will be published before public availability.
+
 ---
 
 © 2026 Aurora Dragon Studio. All rights reserved.
