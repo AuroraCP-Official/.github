@@ -1,7 +1,10 @@
 <div align="center">
 
 <h1>
-  <img src="assets/logo.png" width="56" alt="AuroraCP logo" valign="middle">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuroraCP-Official/.github/main/profile/logo-dark.png">
+    <img src="https://raw.githubusercontent.com/AuroraCP-Official/.github/main/profile/logo.png" width="56" alt="AuroraCP logo" valign="middle">
+  </picture>
   AuroraCP
 </h1>
 
