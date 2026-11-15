@@ -1,6 +1,6 @@
 <div align="center">
 
-# AuroraCP
+<h1 align="center">▤ AuroraCP</h1>
 
 **A modern control panel for Linux web hosting.**
 
