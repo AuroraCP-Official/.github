@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AuroraCP-Official/.github/main/auroracp-banner.png" alt="AuroraCP — Hosting Control Panel" width="100%">
+<img src="https://raw.githubusercontent.com/AuroraCP-Official/.github/main/profile/auroracp-banner.png" alt="AuroraCP — Hosting Control Panel" width="100%">
 
 </div>
 
