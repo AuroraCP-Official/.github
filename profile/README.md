@@ -33,7 +33,7 @@ AuroraCP is a hosting control panel for secure server administration, straightfo
 | Installer and update system | Planned |
 | Licensing service | Planned |
 | Independent installation and security testing | Planned |
-| Public beta | Upcoming |
+| Public beta | Planned |
 
 ## Getting Started
 
@@ -45,8 +45,7 @@ AuroraCP is under active development. Contribution guidelines will be published 
 
 ## License
 
-To be determined.
-
+AuroraCP is proprietary commercial software under development. Licensing terms will be published before public availability.
 ---
 
 © 2026 Aurora Dragon Studio. All rights reserved.
